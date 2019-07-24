@@ -1,0 +1,111 @@
+{
+  "Project": "Raltegravir",
+  "SnapshotFile": "C:\\Qualification-Ontogeny-UGT1A1\\re_input\\temp\\_project\\Raltegravir.json",
+  "OutputFolder": "C:\\Qualification-Ontogeny-UGT1A1\\re_input",
+  "ObservedDataFolder": "C:\\Qualification-Ontogeny-UGT1A1\\re_input\\ObservedData",
+  "InputsFolder": "C:\\Qualification-Ontogeny-UGT1A1\\re_input\\Inputs",
+  "MappingFile": "C:\\Qualification-Ontogeny-UGT1A1\\re_input\\temp\\Raltegravir\\mapping.json",
+  "TempFolder": "C:\\Qualification-Ontogeny-UGT1A1\\re_input\\temp\\Raltegravir",
+  "ReportConfigurationFile": "C:\\Qualification-Ontogeny-UGT1A1\\re_input\\report-configuration-plan.json",
+  "SimulationPlots": [
+    {
+      "Simulation": "Raltegravir 400mg chewable fasted",
+      "Project": "Raltegravir",
+      "SectionId": 42
+    },
+    {
+      "Simulation": "Raltegravir 400mg chewable fed",
+      "Project": "Raltegravir",
+      "SectionId": 42
+    },
+    {
+      "Simulation": "Raltegravir 100 mg filmcoated tablet md",
+      "Project": "Raltegravir",
+      "SectionId": 42
+    },
+    {
+      "Simulation": "Raltegravir 200 mg filmcoated tablet md",
+      "Project": "Raltegravir",
+      "SectionId": 42
+    },
+    {
+      "Simulation": "Raltegravir 400 mg filmcoated tablet md",
+      "Project": "Raltegravir",
+      "SectionId": 42
+    },
+    {
+      "Simulation": "Raltegravir 400mg filmcoated tablet",
+      "Project": "Raltegravir",
+      "SectionId": 42
+    },
+    {
+      "Simulation": "Raltegravir 400mg (granules in suspension) lsf",
+      "Project": "Raltegravir",
+      "SectionId": 42
+    },
+    {
+      "Simulation": "Raltegravir 10 mg   (lactose formulation)",
+      "Project": "Raltegravir",
+      "SectionId": 42
+    },
+    {
+      "Simulation": "Raltegravir 100 mg  (lactose formulation)",
+      "Project": "Raltegravir",
+      "SectionId": 42
+    },
+    {
+      "Simulation": "Raltegravir 1200 mg   (lactose formulation)",
+      "Project": "Raltegravir",
+      "SectionId": 42
+    },
+    {
+      "Simulation": "Raltegravir 1600 mg  (lactose formulation)",
+      "Project": "Raltegravir",
+      "SectionId": 42
+    },
+    {
+      "Simulation": "Raltegravir 200 mg   (lactose formulation)",
+      "Project": "Raltegravir",
+      "SectionId": 42
+    },
+    {
+      "Simulation": "Raltegravir 25 mg  (lactose formulation)",
+      "Project": "Raltegravir",
+      "SectionId": 42
+    },
+    {
+      "Simulation": "Raltegravir 400mg (lactose formulation)",
+      "Project": "Raltegravir",
+      "SectionId": 42
+    },
+    {
+      "Simulation": "Raltegravir 50 mg  (lactose formulation)",
+      "Project": "Raltegravir",
+      "SectionId": 42
+    },
+    {
+      "Simulation": "Raltegravir 800 mg  (lactose formulation)",
+      "Project": "Raltegravir",
+      "SectionId": 42
+    },
+    {
+      "Simulation": "Larson 2013 8-18y meal",
+      "Project": "Raltegravir",
+      "SectionId": 32
+    },
+    {
+      "Simulation": "Larson 2013 8-18y fasted",
+      "Project": "Raltegravir",
+      "SectionId": 32
+    }
+  ],
+  "Inputs": [
+    {
+      "Type": "Compound",
+      "Name": "Raltegravir",
+      "Project": "Raltegravir",
+      "SectionId": 40
+    }
+  ],
+  "BuildingBlocks": []
+}

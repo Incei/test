@@ -1,0 +1,765 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/QualificationPlan/master/schemas/OSP_Qualification_Plan_Schema.json",
+    "Projects": [
+        {
+            "Id": "Raltegravir",
+            "Path": "https://raw.githubusercontent.com/Incei/Raltegravir-Model/master/Raltegravir.json",
+            "BuildingBlocks": []
+        }
+    ],
+    "ObservedDataSets": [
+        {
+            "Id": "PK-Parameter",
+            "Path": "PK-Parameters.csv",
+            "Type": "PKRatio"
+        }
+    ],
+    "Intro": [
+        {
+            "Path": "Content/titlepage.md"
+        }
+    ],
+    "Plots": {
+        "PlotSettings": {
+            "ChartWidth": 500,
+            "ChartHeight": 400,
+            "Fonts": {
+                "AxisSize": 11,
+                "LegendSize": 9,
+                "OriginSize": 9,
+                "FontFamilyName": "Arial",
+                "WatermarkSize": 40
+            }
+        },
+        "AxesSettings": {
+            "ComparisonTimeProfile": [
+                {
+                    "Unit": "h",
+                    "Dimension": "Time",
+                    "Type": "X",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                },
+                {
+                    "Unit": "µg/l",
+                    "Dimension": "Concentration (mass)",
+                    "Type": "Y",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ],
+            "DDIRatioPlotsPredictedVsObserved": [
+                {
+                    "Unit": "",
+                    "Dimension": "Dimensionless",
+                    "Type": "X",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                },
+                {
+                    "Unit": "",
+                    "Dimension": "Dimensionless",
+                    "Type": "Y",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ],
+            "DDIRatioPlotsResidualsVsObserved": [
+                {
+                    "Unit": "",
+                    "Dimension": "Dimensionless",
+                    "Type": "X",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                },
+                {
+                    "Unit": "",
+                    "Dimension": "Dimensionless",
+                    "Type": "Y",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                }
+            ],
+            "GOFMergedPlotsPredictedVsObserved": [
+                {
+                    "Unit": "µg/l",
+                    "Dimension": "Concentration (mass)",
+                    "Type": "X",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                },
+                {
+                    "Unit": "µg/l",
+                    "Dimension": "Concentration (mass)",
+                    "Type": "Y",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ],
+            "GOFMergedPlotsResidualsOverTime": [
+                {
+                    "Unit": "h",
+                    "Dimension": "Time",
+                    "Type": "X",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                },
+                {
+                    "Unit": "",
+                    "Dimension": "Dimensionless",
+                    "Type": "Y",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                }
+            ],
+            "PKRatioPlots": [
+                {
+                    "Unit": "year(s)",
+                    "Dimension": "Age",
+                    "Type": "X",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                },
+                {
+                    "Unit": "",
+                    "Dimension": "Dimensionless",
+                    "Type": "Y",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ]
+        },
+        "PKRatioPlots": [
+            {
+                "Title": "Overall predictivity of the PBPK models. Open circles represent mean ratios of PBPK predicted AUC over observed AUC of all drugs in children 1 month to 18 years old. Blue dashed lines and red dotted lines represent the 1.5-fold and 2-fold error, respectively.",
+                "PKParameter": "AUC",
+                "SectionId": 2,
+                "Groups": [
+                    {
+                        "Caption": "Raltegravir",
+                        "Color": "#000000",
+                        "Symbol": "Circle",
+                        "PKRatios": [
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Larson 2013 15y meal",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "PK-Parameter",
+                                "ObservedDataRecordId": 5433
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Larson 2013 10.5y meal",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "PK-Parameter",
+                                "ObservedDataRecordId": 5309
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Larson 2013 9y meal",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "PK-Parameter",
+                                "ObservedDataRecordId": 5308
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Larson 2013 3y meal",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "PK-Parameter",
+                                "ObservedDataRecordId": 5307
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Nachmann 2013 cohort 1 15.2y fed",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "PK-Parameter",
+                                "ObservedDataRecordId": 5303
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Nachmann 2013 cohort 2a 10y fed",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "PK-Parameter",
+                                "ObservedDataRecordId": 5304
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Nachmann 2013 cohort 2b 8.8y fed",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "PK-Parameter",
+                                "ObservedDataRecordId": 5305
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Nachmann 2013 cohort 3 - 3.2y fed",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "PK-Parameter",
+                                "ObservedDataRecordId": 5306
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Rizk 2015 15m meal",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "PK-Parameter",
+                                "ObservedDataRecordId": 5302
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Rizk 2015 3.5m meal",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "PK-Parameter",
+                                "ObservedDataRecordId": 5301
+                            }
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Title": "Predictivity of the Raltegravir PBPK model. Open circles represent mean ratios of PBPK predicted AUC over observed AUC of all drugs in children 1 month to 18 years old. Blue dashed lines and red dotted lines represent the 1.5-fold and 2-fold error, respectively.",
+                "PKParameter": "AUC",
+                "SectionId": 31,
+                "Groups": [
+                    {
+                        "Caption": "Raltegravir",
+                        "Color": "#000000",
+                        "Symbol": "Circle",
+                        "PKRatios": [
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Larson 2013 15y meal",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "PK-Parameter",
+                                "ObservedDataRecordId": 5433
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Larson 2013 10.5y meal",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "PK-Parameter",
+                                "ObservedDataRecordId": 5309
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Larson 2013 9y meal",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "PK-Parameter",
+                                "ObservedDataRecordId": 5308
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Larson 2013 3y meal",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "PK-Parameter",
+                                "ObservedDataRecordId": 5307
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Nachmann 2013 cohort 1 15.2y fed",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "PK-Parameter",
+                                "ObservedDataRecordId": 5303
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Nachmann 2013 cohort 2a 10y fed",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "PK-Parameter",
+                                "ObservedDataRecordId": 5304
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Nachmann 2013 cohort 2b 8.8y fed",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "PK-Parameter",
+                                "ObservedDataRecordId": 5305
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Nachmann 2013 cohort 3 - 3.2y fed",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "PK-Parameter",
+                                "ObservedDataRecordId": 5306
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Rizk 2015 15m meal",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "PK-Parameter",
+                                "ObservedDataRecordId": 5302
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Rizk 2015 3.5m meal",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "PK-Parameter",
+                                "ObservedDataRecordId": 5301
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "GOFMergedPlots": [
+            {
+                "Title": "Goodness-of-fit visual diagnostic plots of the raltegravir PBPK model performance: observed versus individually predicted plasma concentration versus time of all adult data.",
+                "SectionId": 44,
+                "PlotType": "predictedVsObserved",
+                "Groups": [
+                    {
+                        "Caption": "Raltegravir lactose formulation",
+                        "Symbol": "Triangle",
+                        "OutputMappings": [
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 10 mg   (lactose formulation)",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 9",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 25 mg  (lactose formulation)",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 10",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 50 mg  (lactose formulation)",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 11",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 100 mg  (lactose formulation)",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 12",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 200 mg   (lactose formulation)",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 13",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 400mg (lactose formulation)",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 14",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 400mg (lactose formulation)",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Wenning_2009_Effect of Rifampin, a Potent Inducer of Drug-Metabolizing Enzymes_figure 1a.Figure 1",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 800 mg  (lactose formulation)",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 15",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 1200 mg   (lactose formulation)",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 16",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 1600 mg  (lactose formulation)",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 17",
+                                "Color": "#000000"
+                            }
+                        ]
+                    },
+                    {
+                        "Caption": "Raltegravir filmcoated tablet",
+                        "Symbol": "Circle",
+                        "OutputMappings": [
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 100 mg filmcoated tablet md",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Markowitz_2006_100 mg bid 10 days",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 200 mg filmcoated tablet md",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Markowitz_2006_200 mg bid 10 days",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 200 mg filmcoated tablet md",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Kassahun_2007_Metabolism and disposition in humans of Raltegravir _fig2.Figure 2",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 400 mg filmcoated tablet md",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Markowitz_2006_400 mg bid 10 days",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 400mg filmcoated tablet",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Rhee 2014 400mg film-coated tablet (fasted) logscale",
+                                "Color": "#000000"
+                            }
+                        ]
+                    },
+                    {
+                        "Caption": "Raltegravir chewable tablet",
+                        "Symbol": "Asterisk",
+                        "OutputMappings": [
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 400mg chewable fasted",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Rhee 2014 4x100mg chewable tablet (fasted) logscale",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 400mg chewable fed",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Rhee 2014 4x100mg chewable tablet (fed) logscale",
+                                "Color": "#000000"
+                            }
+                        ]
+                    },
+                    {
+                        "Caption": "Raltegravir granules in suspension",
+                        "Symbol": "Square",
+                        "OutputMappings": [
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 400mg (granules in suspension) lsf",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Rhee 2014 400mg granules in suspension (fasted) logscale",
+                                "Color": "#000000"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Title": "Goodness-of-fit visual diagnostic plots of the raltegravir PBPK model performance: weighted residuals versus time of all adult data.",
+                "SectionId": 44,
+                "PlotType": "residualsOverTime",
+                "Groups": [
+                    {
+                        "Caption": "Raltegravir lactose formulation",
+                        "Symbol": "Triangle",
+                        "OutputMappings": [
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 10 mg   (lactose formulation)",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 9",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 25 mg  (lactose formulation)",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 10",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 50 mg  (lactose formulation)",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 11",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 100 mg  (lactose formulation)",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 12",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 200 mg   (lactose formulation)",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 13",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 400mg (lactose formulation)",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 14",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 400mg (lactose formulation)",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Wenning_2009_Effect of Rifampin, a Potent Inducer of Drug-Metabolizing Enzymes_figure 1a.Figure 1",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 800 mg  (lactose formulation)",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 15",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 1200 mg   (lactose formulation)",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 16",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 1600 mg  (lactose formulation)",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 17",
+                                "Color": "#000000"
+                            }
+                        ]
+                    },
+                    {
+                        "Caption": "Raltegravir filmcoated tablet",
+                        "Symbol": "Circle",
+                        "OutputMappings": [
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 100 mg filmcoated tablet md",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Markowitz_2006_100 mg bid 10 days",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 200 mg filmcoated tablet md",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Markowitz_2006_200 mg bid 10 days",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 200 mg filmcoated tablet md",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Kassahun_2007_Metabolism and disposition in humans of Raltegravir _fig2.Figure 2",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 400 mg filmcoated tablet md",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Markowitz_2006_400 mg bid 10 days",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 400mg filmcoated tablet",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Rhee 2014 400mg film-coated tablet (fasted) logscale",
+                                "Color": "#000000"
+                            }
+                        ]
+                    },
+                    {
+                        "Caption": "Raltegravir chewable tablet",
+                        "Symbol": "Asterisk",
+                        "OutputMappings": [
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 400mg chewable fasted",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Rhee 2014 4x100mg chewable tablet (fasted) logscale",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 400mg chewable fed",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Rhee 2014 4x100mg chewable tablet (fed) logscale",
+                                "Color": "#000000"
+                            }
+                        ]
+                    },
+                    {
+                        "Caption": "Raltegravir granules in suspension",
+                        "Symbol": "Square",
+                        "OutputMappings": [
+                            {
+                                "Project": "Raltegravir",
+                                "Simulation": "Raltegravir 400mg (granules in suspension) lsf",
+                                "Output": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Rhee 2014 400mg granules in suspension (fasted) logscale",
+                                "Color": "#000000"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "AllPlots": [
+            {
+                "Project": "Raltegravir",
+                "Simulation": "Raltegravir 400mg chewable fasted",
+                "SectionId": 42
+            },
+            {
+                "Project": "Raltegravir",
+                "Simulation": "Raltegravir 400mg chewable fed",
+                "SectionId": 42
+            },
+            {
+                "Project": "Raltegravir",
+                "Simulation": "Raltegravir 100 mg filmcoated tablet md",
+                "SectionId": 42
+            },
+            {
+                "Project": "Raltegravir",
+                "Simulation": "Raltegravir 200 mg filmcoated tablet md",
+                "SectionId": 42
+            },
+            {
+                "Project": "Raltegravir",
+                "Simulation": "Raltegravir 400 mg filmcoated tablet md",
+                "SectionId": 42
+            },
+            {
+                "Project": "Raltegravir",
+                "Simulation": "Raltegravir 400mg filmcoated tablet",
+                "SectionId": 42
+            },
+            {
+                "Project": "Raltegravir",
+                "Simulation": "Raltegravir 400mg (granules in suspension) lsf",
+                "SectionId": 42
+            },
+            {
+                "Project": "Raltegravir",
+                "Simulation": "Raltegravir 10 mg   (lactose formulation)",
+                "SectionId": 42
+            },
+            {
+                "Project": "Raltegravir",
+                "Simulation": "Raltegravir 100 mg  (lactose formulation)",
+                "SectionId": 42
+            },
+            {
+                "Project": "Raltegravir",
+                "Simulation": "Raltegravir 1200 mg   (lactose formulation)",
+                "SectionId": 42
+            },
+            {
+                "Project": "Raltegravir",
+                "Simulation": "Raltegravir 1600 mg  (lactose formulation)",
+                "SectionId": 42
+            },
+            {
+                "Project": "Raltegravir",
+                "Simulation": "Raltegravir 200 mg   (lactose formulation)",
+                "SectionId": 42
+            },
+            {
+                "Project": "Raltegravir",
+                "Simulation": "Raltegravir 25 mg  (lactose formulation)",
+                "SectionId": 42
+            },
+            {
+                "Project": "Raltegravir",
+                "Simulation": "Raltegravir 400mg (lactose formulation)",
+                "SectionId": 42
+            },
+            {
+                "Project": "Raltegravir",
+                "Simulation": "Raltegravir 50 mg  (lactose formulation)",
+                "SectionId": 42
+            },
+            {
+                "Project": "Raltegravir",
+                "Simulation": "Raltegravir 800 mg  (lactose formulation)",
+                "SectionId": 42
+            },
+            {
+                "Project": "Raltegravir",
+                "Simulation": "Larson 2013 8-18y meal",
+                "SectionId": 32
+            },
+            {
+                "Project": "Raltegravir",
+                "Simulation": "Larson 2013 8-18y fasted",
+                "SectionId": 32
+            }
+        ]
+    },
+    "Sections": [
+        {
+            "Id": 2,
+            "Title": "Chapter 1: Introduction to Pediatric Translation and UGT1A1 Ontogeny Qualification",
+            "Content": "Content/Section1.md"
+        },
+        {
+            "Id": 3,
+            "Title": "Chapter 2: Pediatric translation qualification results",
+            "Content": "Content/Section3.md",
+            "Sections": [
+                {
+                    "Id": 31,
+                    "Content": "Content/Raltegravir_children.md",
+                    "Title": "Chapter 2.1: Raltegravir PK Ratio tables and Figures"
+                },
+                {
+                    "Id": 32,
+                    "Content": "Content/Concentration_time_profiles_children.md",
+                    "Title": "Chapter 2.2: Raltegravir Concentration-Time profiles in Children"
+                }
+            ]
+        },
+        {
+            "Id": 4,
+            "Title": "Chapter 3: Adult PBPK model building and performance",
+            "Content": "Content/Section2.md",
+            "Sections": [
+                {
+                    "Id": 40,
+                    "Content": "Content/Raltegravir_adults.md",
+                    "Title": "Chapter 3.1: Raltegravir Input Tables"
+                },
+                {
+                    "Id": 41,
+                    "Content": "Content/Raltegravir_diagnostics.md",
+                    "Title": "Chapter 3.2: Raltegravir Diagnostics Plots"
+                },
+                {
+                    "Id": 42,
+                    "Content": "Content/Concentration_time_profiles_adults.md",
+                    "Title": "Chapter 3.3: Raltegravir Concentration-Time profiles in Adults"
+                }
+            ]
+        }
+    ],
+    "Inputs": [
+        {
+            "Project": "Raltegravir",
+            "Name": "Raltegravir",
+            "Type": "Compound",
+            "SectionId": 40
+        }
+    ]
+}

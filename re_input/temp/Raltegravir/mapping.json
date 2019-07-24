@@ -1,0 +1,2996 @@
+{
+  "SimulationMappings": [
+    {
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 800 mg  (lactose formulation)",
+      "Path": "Raltegravir/Raltegravir 800 mg  (lactose formulation)/"
+    },
+    {
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 10 mg   (lactose formulation)",
+      "Path": "Raltegravir/Raltegravir 10 mg   (lactose formulation)/"
+    },
+    {
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 100 mg  (lactose formulation)",
+      "Path": "Raltegravir/Raltegravir 100 mg  (lactose formulation)/"
+    },
+    {
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 1200 mg   (lactose formulation)",
+      "Path": "Raltegravir/Raltegravir 1200 mg   (lactose formulation)/"
+    },
+    {
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 1600 mg  (lactose formulation)",
+      "Path": "Raltegravir/Raltegravir 1600 mg  (lactose formulation)/"
+    },
+    {
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 200 mg   (lactose formulation)",
+      "Path": "Raltegravir/Raltegravir 200 mg   (lactose formulation)/"
+    },
+    {
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 25 mg  (lactose formulation)",
+      "Path": "Raltegravir/Raltegravir 25 mg  (lactose formulation)/"
+    },
+    {
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 50 mg  (lactose formulation)",
+      "Path": "Raltegravir/Raltegravir 50 mg  (lactose formulation)/"
+    },
+    {
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 400mg chewable fasted",
+      "Path": "Raltegravir/Raltegravir 400mg chewable fasted/"
+    },
+    {
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 400mg filmcoated tablet",
+      "Path": "Raltegravir/Raltegravir 400mg filmcoated tablet/"
+    },
+    {
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 400mg (lactose formulation)",
+      "Path": "Raltegravir/Raltegravir 400mg (lactose formulation)/"
+    },
+    {
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 100 mg filmcoated tablet md",
+      "Path": "Raltegravir/Raltegravir 100 mg filmcoated tablet md/"
+    },
+    {
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 200 mg filmcoated tablet md",
+      "Path": "Raltegravir/Raltegravir 200 mg filmcoated tablet md/"
+    },
+    {
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 400 mg filmcoated tablet md",
+      "Path": "Raltegravir/Raltegravir 400 mg filmcoated tablet md/"
+    },
+    {
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 400mg (granules in suspension) lsf",
+      "Path": "Raltegravir/Raltegravir 400mg (granules in suspension) lsf/"
+    },
+    {
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 400mg chewable fed",
+      "Path": "Raltegravir/Raltegravir 400mg chewable fed/"
+    },
+    {
+      "Project": "Raltegravir",
+      "Simulation": "Nachmann 2013 cohort 1 15.2y fed",
+      "Path": "Raltegravir/Nachmann 2013 cohort 1 15.2y fed"
+    },
+    {
+      "Project": "Raltegravir",
+      "Simulation": "Nachmann 2013 cohort 2a 10y fed",
+      "Path": "Raltegravir/Nachmann 2013 cohort 2a 10y fed/"
+    },
+    {
+      "Project": "Raltegravir",
+      "Simulation": "Rizk 2015 3.5m meal",
+      "Path": "Raltegravir/Rizk 2015 3.5m meal"
+    },
+    {
+      "Project": "Raltegravir",
+      "Simulation": "Rizk 2015 15m meal",
+      "Path": "Raltegravir/Rizk 2015 15m meal/"
+    },
+    {
+      "Project": "Raltegravir",
+      "Simulation": "Larson 2013 8-18y meal",
+      "Path": "Raltegravir/Larson 2013 8-18y meal/"
+    },
+    {
+      "Project": "Raltegravir",
+      "Simulation": "Nachmann 2013 cohort 3 - 3.2y fed",
+      "Path": "Raltegravir/Nachmann 2013 cohort 3 - 3.2y fed"
+    },
+    {
+      "Project": "Raltegravir",
+      "Simulation": "Nachmann 2013 cohort 2b 8.8y fed",
+      "Path": "Raltegravir/Nachmann 2013 cohort 2b 8.8y fed"
+    },
+    {
+      "Project": "Raltegravir",
+      "Simulation": "Larson 2013 10.5y meal",
+      "Path": "Raltegravir/Larson 2013 10.5y meal"
+    },
+    {
+      "Project": "Raltegravir",
+      "Simulation": "Larson 2013 9y meal",
+      "Path": "Raltegravir/Larson 2013 9y meal/"
+    },
+    {
+      "Project": "Raltegravir",
+      "Simulation": "Larson 2013 3y meal",
+      "Path": "Raltegravir/Larson 2013 3y meal/"
+    },
+    {
+      "Project": "Raltegravir",
+      "Simulation": "Larson 2013 15y meal",
+      "Path": "Raltegravir/Larson 2013 15y meal/"
+    },
+    {
+      "Project": "Raltegravir",
+      "Simulation": "Larson 2013 8-18y fasted",
+      "Path": "Raltegravir/Larson 2013 8-18y fasted/"
+    }
+  ],
+  "ObservedDataMappings": [
+    {
+      "Id": "Anderson_2008_Minimal pk interact between etravirine and raltegravir in healthy subjects_fig1.Anderson 2008 Figure 1",
+      "Path": "ObservedData/Anderson_2008_Minimal pk interact between etravirine and raltegravir in healthy subjects_fig1.Anderson 2008 Figure 1.csv"
+    },
+    {
+      "Id": "Hanley_2009_Effect of Tipranavir-Ritonavir on Pharmacokinetics of Raltegravir_fig1.Hanley 2009 Figure 1",
+      "Path": "ObservedData/Hanley_2009_Effect of Tipranavir-Ritonavir on Pharmacokinetics of Raltegravir_fig1.Hanley 2009 Figure 1.csv"
+    },
+    {
+      "Id": "Iwamoto_2008_Effects of Omeprazole on Plasma levels of raltegravir_figure 1.Iwamoto 2008 Fig1",
+      "Path": "ObservedData/Iwamoto_2008_Effects of Omeprazole on Plasma levels of raltegravir_figure 1.Iwamoto 2008 Fig1.csv"
+    },
+    {
+      "Id": "Iwamoto_2008_Minimal Effects of Ritonavir and Efavirenz on the pk_fig 1.Iwamoto 2008 figure 1",
+      "Path": "ObservedData/Iwamoto_2008_Minimal Effects of Ritonavir and Efavirenz on the pk_fig 1.Iwamoto 2008 figure 1.csv"
+    },
+    {
+      "Id": "Kassahun_2007_Metabolism and disposition in humans of Raltegravir _fig2.Figure 2",
+      "Path": "ObservedData/Kassahun_2007_Metabolism and disposition in humans of Raltegravir _fig2.Figure 2.csv"
+    },
+    {
+      "Id": "(tablet) Larson_2013_Raltegravir for HIV -1 infected children and adolescents_figure 1.Larson 2013 Figure 1",
+      "Path": "ObservedData/(tablet) Larson_2013_Raltegravir for HIV -1 infected children and adolescents_figure 1.Larson 2013 Figure 1.csv"
+    },
+    {
+      "Id": "(tablet chewable ) Larson_2013_Raltegravir for HIV -1 infected children and adolescents_figure 1.Larson 2013 Figure 1",
+      "Path": "ObservedData/(tablet chewable ) Larson_2013_Raltegravir for HIV -1 infected children and adolescents_figure 1.Larson 2013 Figure 1.csv"
+    },
+    {
+      "Id": "Nachman_2013_PK safety and 48 week pd of oral raltegravir in hiv1infected children aged 2-19 years_Figure 2 Cohort 3",
+      "Path": "ObservedData/Nachman_2013_PK safety and 48 week pd of oral raltegravir in hiv1infected children aged 2-19 years_Figure 2 Cohort 3.csv"
+    },
+    {
+      "Id": "Nachman_2013_PK safety and 48 week pd of oral raltegravir in hiv1infected children aged 2-19 years_Figure 2 Cohort 2b",
+      "Path": "ObservedData/Nachman_2013_PK safety and 48 week pd of oral raltegravir in hiv1infected children aged 2-19 years_Figure 2 Cohort 2b.csv"
+    },
+    {
+      "Id": "Nachman_2013_PK safety and 48 week pd of oral raltegravir in hiv1infected children aged 2-19 years_Figure 2 Cohort 2a",
+      "Path": "ObservedData/Nachman_2013_PK safety and 48 week pd of oral raltegravir in hiv1infected children aged 2-19 years_Figure 2 Cohort 2a.csv"
+    },
+    {
+      "Id": "Nachman_2013_PK safety and 48 week pd of oral raltegrvir in hiv1infected children aged 2-19 years_Figure 2 Cohort 1",
+      "Path": "ObservedData/Nachman_2013_PK safety and 48 week pd of oral raltegrvir in hiv1infected children aged 2-19 years_Figure 2 Cohort 1.csv"
+    },
+    {
+      "Id": "Wenning_2009_Effect of Rifampin, a Potent Inducer of Drug-Metabolizing Enzymes_figure 1a.Figure 1",
+      "Path": "ObservedData/Wenning_2009_Effect of Rifampin, a Potent Inducer of Drug-Metabolizing Enzymes_figure 1a.Figure 1.csv"
+    },
+    {
+      "Id": "Wenning_2008_Lack of a significant drug interaction between raltegravir and tenofovir.Wenning 2008 Figure 1A",
+      "Path": "ObservedData/Wenning_2008_Lack of a significant drug interaction between raltegravir and tenofovir.Wenning 2008 Figure 1A.csv"
+    },
+    {
+      "Id": "Wenning_2008_Lack of a significant drug interaction between raltegravir and tenofovir_figure 1b.Wenning 2008 Figure 1B",
+      "Path": "ObservedData/Wenning_2008_Lack of a significant drug interaction between raltegravir and tenofovir_figure 1b.Wenning 2008 Figure 1B.csv"
+    },
+    {
+      "Id": "Neely_2010_PK and PD of once-daily raltegravir and atazanavir in healthy volunteers_figure 1a.Neely 2010 Figure 1 A.",
+      "Path": "ObservedData/Neely_2010_PK and PD of once-daily raltegravir and atazanavir in healthy volunteers_figure 1a.Neely 2010 Figure 1 A..csv"
+    },
+    {
+      "Id": "Neely_2010_PK and PD of once-daily raltegravir and atazanavir in healthy volunteers Figure 1B.Neely 2010 Figure 1 B",
+      "Path": "ObservedData/Neely_2010_PK and PD of once-daily raltegravir and atazanavir in healthy volunteers Figure 1B.Neely 2010 Figure 1 B.csv"
+    },
+    {
+      "Id": "Barau_2013_Characterization of Binding of Raltegravir to Plasma Proteins_figure 1.Barau 2013 Figure 1..total RAL",
+      "Path": "ObservedData/Barau_2013_Characterization of Binding of Raltegravir to Plasma Proteins_figure 1.Barau 2013 Figure 1..total RAL.csv"
+    },
+    {
+      "Id": "Barau_2013_Characterization of Binding of Raltegravir to Plasma Proteins_figure 1.Barau 2013 Figure 1. Unbound RAL",
+      "Path": "ObservedData/Barau_2013_Characterization of Binding of Raltegravir to Plasma Proteins_figure 1.Barau 2013 Figure 1. Unbound RAL.csv"
+    },
+    {
+      "Id": "UGT1A1 metabolite",
+      "Path": "ObservedData/UGT1A1 metabolite.csv"
+    },
+    {
+      "Id": "Kassahun_2007_fraction_ugt1a1",
+      "Path": "ObservedData/Kassahun_2007_fraction_ugt1a1.csv"
+    },
+    {
+      "Id": "Rhee 2014 400mg film-coated tablet (fasted)",
+      "Path": "ObservedData/Rhee 2014 400mg film-coated tablet (fasted).csv"
+    },
+    {
+      "Id": "Rhee 2014 4x100mg chewable tablet (fasted)",
+      "Path": "ObservedData/Rhee 2014 4x100mg chewable tablet (fasted).csv"
+    },
+    {
+      "Id": "Rhee 2014 400mg granules in suspension (fasted)",
+      "Path": "ObservedData/Rhee 2014 400mg granules in suspension (fasted).csv"
+    },
+    {
+      "Id": "Rhee 2014 4x100mg chewable tablet (fed)",
+      "Path": "ObservedData/Rhee 2014 4x100mg chewable tablet (fed).csv"
+    },
+    {
+      "Id": "Rhee 2014 4x100mg chewable tablet (fed) logscale",
+      "Path": "ObservedData/Rhee 2014 4x100mg chewable tablet (fed) logscale.csv"
+    },
+    {
+      "Id": "Rhee 2014 4x100mg chewable tablet (fasted) logscale",
+      "Path": "ObservedData/Rhee 2014 4x100mg chewable tablet (fasted) logscale.csv"
+    },
+    {
+      "Id": "Rhee 2014 400mg granules in suspension (fasted) logscale",
+      "Path": "ObservedData/Rhee 2014 400mg granules in suspension (fasted) logscale.csv"
+    },
+    {
+      "Id": "Rhee 2014 400mg film-coated tablet (fasted) logscale",
+      "Path": "ObservedData/Rhee 2014 400mg film-coated tablet (fasted) logscale.csv"
+    },
+    {
+      "Id": "Markowitz_2006_100 mg bid 10 days",
+      "Path": "ObservedData/Markowitz_2006_100 mg bid 10 days.csv"
+    },
+    {
+      "Id": "Markowitz_2006_200 mg bid 10 days",
+      "Path": "ObservedData/Markowitz_2006_200 mg bid 10 days.csv"
+    },
+    {
+      "Id": "Markowitz_2006_400 mg bid 10 days",
+      "Path": "ObservedData/Markowitz_2006_400 mg bid 10 days.csv"
+    },
+    {
+      "Id": "Markowitz_2006_600 mg bid 10 days",
+      "Path": "ObservedData/Markowitz_2006_600 mg bid 10 days.csv"
+    },
+    {
+      "Id": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 9",
+      "Path": "ObservedData/Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 9.csv"
+    },
+    {
+      "Id": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 10",
+      "Path": "ObservedData/Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 10.csv"
+    },
+    {
+      "Id": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 11",
+      "Path": "ObservedData/Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 11.csv"
+    },
+    {
+      "Id": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 12",
+      "Path": "ObservedData/Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 12.csv"
+    },
+    {
+      "Id": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 13",
+      "Path": "ObservedData/Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 13.csv"
+    },
+    {
+      "Id": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 14",
+      "Path": "ObservedData/Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 14.csv"
+    },
+    {
+      "Id": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 15",
+      "Path": "ObservedData/Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 15.csv"
+    },
+    {
+      "Id": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 16",
+      "Path": "ObservedData/Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 16.csv"
+    },
+    {
+      "Id": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 17",
+      "Path": "ObservedData/Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 17.csv"
+    }
+  ],
+  "Plots": [
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 400mg chewable fasted",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Raltegravir 400mg chewable fasted-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 400mg chewable fasted|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "Rhee 2014 4x100mg chewable tablet (fasted) logscale-Raltegravir-Peripheral Venous Blood-Plasma-µm/L(1)",
+            "X": "Rhee 2014 4x100mg chewable tablet (fasted) logscale|h(1)",
+            "Y": "Rhee 2014 4x100mg chewable tablet (fasted) logscale|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|µm/L(1)",
+            "CurveOptions": {
+              "Color": "#0000FF",
+              "LegendIndex": 2,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 400,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "OriginText": "Raltegravir\nRaltegravir 400mg chewable fasted\n2019-07-22 15:24"
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 400mg chewable fasted",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Raltegravir 400mg chewable fasted-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 400mg chewable fasted|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "Rhee 2014 4x100mg chewable tablet (fasted) logscale-Raltegravir-Peripheral Venous Blood-Plasma-µm/L(1)",
+            "X": "Rhee 2014 4x100mg chewable tablet (fasted) logscale|h(1)",
+            "Y": "Rhee 2014 4x100mg chewable tablet (fasted) logscale|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|µm/L(1)",
+            "CurveOptions": {
+              "Color": "#0000FF",
+              "LegendIndex": 2,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis 1",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 400,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "OriginText": "Raltegravir\nRaltegravir 400mg chewable fasted\n2019-07-22 15:24"
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 400mg chewable fed",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Raltegravir 400mg chewable fed-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 400mg chewable fed|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "Rhee 2014 4x100mg chewable tablet (fed) logscale-Raltegravir-Peripheral Venous Blood-Plasma-µm/L(3)",
+            "X": "Rhee 2014 4x100mg chewable tablet (fed) logscale|h(1)",
+            "Y": "Rhee 2014 4x100mg chewable tablet (fed) logscale|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|µm/L(3)",
+            "CurveOptions": {
+              "Color": "#0000FF",
+              "LegendIndex": 2,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 600,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "OriginText": "Raltegravir\nRaltegravir 400mg chewable fed\n2019-07-22 15:24"
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 400mg chewable fed",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Raltegravir 400mg chewable fed-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 400mg chewable fed|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "Rhee 2014 4x100mg chewable tablet (fed) logscale-Raltegravir-Peripheral Venous Blood-Plasma-µm/L(3)",
+            "X": "Rhee 2014 4x100mg chewable tablet (fed) logscale|h(1)",
+            "Y": "Rhee 2014 4x100mg chewable tablet (fed) logscale|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|µm/L(3)",
+            "CurveOptions": {
+              "Color": "#0000FF",
+              "LegendIndex": 2,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis 1",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 600,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "OriginText": "Raltegravir\nRaltegravir 400mg chewable fed\n2019-07-22 15:24"
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 100 mg filmcoated tablet md",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 206.2325,
+            "Max": 238.906,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 17.35518,
+            "Max": 1027.024,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Markowitz_2006_Antiretroviral activity pk and tolerability of mk-0518-Raltegravir-Peripheral Venous Blood-Plasma-nM/L",
+            "X": "Markowitz_2006_100 mg bid 10 days|h(2)",
+            "Y": "Markowitz_2006_100 mg bid 10 days|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|nM/L",
+            "CurveOptions": {
+              "Color": "#0000FF",
+              "LegendIndex": 2,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "Raltegravir 100 mg filmcoated tablet md-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 100 mg filmcoated tablet md|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 400,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "None",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Raltegravir\nRaltegravir 100 mg filmcoated tablet md\n2019-07-22 15:25"
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 100 mg filmcoated tablet md",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 206.2325,
+            "Max": 238.906,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 17.35518,
+            "Max": 1027.024,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Markowitz_2006_Antiretroviral activity pk and tolerability of mk-0518-Raltegravir-Peripheral Venous Blood-Plasma-nM/L",
+            "X": "Markowitz_2006_100 mg bid 10 days|h(2)",
+            "Y": "Markowitz_2006_100 mg bid 10 days|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|nM/L",
+            "CurveOptions": {
+              "Color": "#0000FF",
+              "LegendIndex": 2,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "Raltegravir 100 mg filmcoated tablet md-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 100 mg filmcoated tablet md|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis 1",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 400,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "None",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Raltegravir\nRaltegravir 100 mg filmcoated tablet md\n2019-07-22 15:25"
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 200 mg filmcoated tablet md",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Raltegravir 200 mg filmcoated tablet md-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 200 mg filmcoated tablet md|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "Markowitz_2006_Antiretroviral activity pk and tolerability of mk-0518 1-Raltegravir-Peripheral Venous Blood-Plasma-nM/L(1)",
+            "X": "Markowitz_2006_200 mg bid 10 days|h(2)",
+            "Y": "Markowitz_2006_200 mg bid 10 days|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|nM/L(1)",
+            "CurveOptions": {
+              "Color": "#0000FF",
+              "LegendIndex": 2,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "Kassahun_2007_Metabolism and disposition in humans of Raltegravir _fig2.Figure 2-Raltegravir-Peripheral Venous Blood-Plasma-nM",
+            "X": "Kassahun_2007_Metabolism and disposition in humans of Raltegravir _fig2.Figure 2|h(1)",
+            "Y": "Kassahun_2007_Metabolism and disposition in humans of Raltegravir _fig2.Figure 2|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|nM",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "OriginText": "Raltegravir_\nRaltegravir 200 mg filmcoated tablet md\n2019-07-17 13:29"
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 200 mg filmcoated tablet md",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Raltegravir 200 mg filmcoated tablet md-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 200 mg filmcoated tablet md|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "Markowitz_2006_Antiretroviral activity pk and tolerability of mk-0518 1-Raltegravir-Peripheral Venous Blood-Plasma-nM/L(1)",
+            "X": "Markowitz_2006_200 mg bid 10 days|h(2)",
+            "Y": "Markowitz_2006_200 mg bid 10 days|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|nM/L(1)",
+            "CurveOptions": {
+              "Color": "#0000FF",
+              "LegendIndex": 2,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "Kassahun_2007_Metabolism and disposition in humans of Raltegravir _fig2.Figure 2-Raltegravir-Peripheral Venous Blood-Plasma-nM",
+            "X": "Kassahun_2007_Metabolism and disposition in humans of Raltegravir _fig2.Figure 2|h(1)",
+            "Y": "Kassahun_2007_Metabolism and disposition in humans of Raltegravir _fig2.Figure 2|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|nM",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis 1",
+        "OriginText": "Raltegravir_\nRaltegravir 200 mg filmcoated tablet md\n2019-07-17 13:29"
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 400 mg filmcoated tablet md",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 207.0163,
+            "Max": 237.629,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 47.74055,
+            "Max": 4111.514,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Raltegravir 400 mg filmcoated tablet md-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 400 mg filmcoated tablet md|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "Markowitz_2006_Antiretroviral activity pk and tolerability of mk-0518 2-Raltegravir-Peripheral Venous Blood-Plasma-nM/L(2)",
+            "X": "Markowitz_2006_400 mg bid 10 days|h(2)",
+            "Y": "Markowitz_2006_400 mg bid 10 days|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|nM/L(2)",
+            "CurveOptions": {
+              "Color": "#008000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 400,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "None",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Raltegravir_\nRaltegravir 400 mg filmcoated tablet md\n2019-07-17 13:30"
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 400 mg filmcoated tablet md",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 207.0163,
+            "Max": 237.629,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "Min": 47.74055,
+            "Max": 4111.514,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Raltegravir 400 mg filmcoated tablet md-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 400 mg filmcoated tablet md|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "Markowitz_2006_Antiretroviral activity pk and tolerability of mk-0518 2-Raltegravir-Peripheral Venous Blood-Plasma-nM/L(2)",
+            "X": "Markowitz_2006_400 mg bid 10 days|h(2)",
+            "Y": "Markowitz_2006_400 mg bid 10 days|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|nM/L(2)",
+            "CurveOptions": {
+              "Color": "#008000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis 1",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 400,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "None",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Raltegravir_\nRaltegravir 400 mg filmcoated tablet md\n2019-07-17 13:30"
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 400mg filmcoated tablet",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Raltegravir 400mg filmcoated tablet-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 400mg filmcoated tablet|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "Rhee 2014 400mg film-coated tablet (fasted) logscale-Raltegravir-Peripheral Venous Blood-Plasma-µm/L",
+            "X": "Rhee 2014 400mg film-coated tablet (fasted) logscale|h(1)",
+            "Y": "Rhee 2014 400mg film-coated tablet (fasted) logscale|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|µm/L",
+            "CurveOptions": {
+              "Color": "#008000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 400,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "OriginText": "Raltegravir_\nRaltegravir 400mg filmcoated tablet\n2019-07-17 13:30"
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 400mg filmcoated tablet",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Raltegravir 400mg filmcoated tablet-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 400mg filmcoated tablet|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "Rhee 2014 400mg film-coated tablet (fasted) logscale-Raltegravir-Peripheral Venous Blood-Plasma-µm/L",
+            "X": "Rhee 2014 400mg film-coated tablet (fasted) logscale|h(1)",
+            "Y": "Rhee 2014 400mg film-coated tablet (fasted) logscale|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|µm/L",
+            "CurveOptions": {
+              "Color": "#008000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis 1",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 400,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "OriginText": "Raltegravir_\nRaltegravir 400mg filmcoated tablet\n2019-07-17 13:30"
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 400mg (granules in suspension) lsf",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Raltegravir 400mg (granules in suspension) lsf-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 400mg (granules in suspension) lsf|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "Rhee 2014 400mg granules in suspension (fasted) logscale-Raltegravir-Peripheral Venous Blood-Plasma-µm/L(2)",
+            "X": "Rhee 2014 400mg granules in suspension (fasted) logscale|h(1)",
+            "Y": "Rhee 2014 400mg granules in suspension (fasted) logscale|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|µm/L(2)",
+            "CurveOptions": {
+              "Color": "#FF8000",
+              "LegendIndex": 10,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 400,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "RightInside",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Raltegravir_\nRaltegravir 400mg (granules in suspension) lsf\n2019-07-17 08:47"
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 400mg (granules in suspension) lsf",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Raltegravir 400mg (granules in suspension) lsf-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 400mg (granules in suspension) lsf|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "Rhee 2014 400mg granules in suspension (fasted) logscale-Raltegravir-Peripheral Venous Blood-Plasma-µm/L(2)",
+            "X": "Rhee 2014 400mg granules in suspension (fasted) logscale|h(1)",
+            "Y": "Rhee 2014 400mg granules in suspension (fasted) logscale|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|µm/L(2)",
+            "CurveOptions": {
+              "Color": "#FF8000",
+              "LegendIndex": 10,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis 1",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 400,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "None",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Raltegravir_\nRaltegravir 400mg (granules in suspension) lsf\n2019-07-17 08:47"
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 10 mg   (lactose formulation)",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Raltegravir 10 mg   (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 10 mg   (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 9-Raltegravir-Peripheral Venous Blood-Plasma-nM",
+            "X": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 9|h(1)",
+            "Y": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 9|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|nM",
+            "CurveOptions": {
+              "Color": "#0000FF",
+              "LegendIndex": 2,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 400,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "None",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Raltegravir_\nRaltegravir 10 mg   (lactose formulation)\n2019-07-18 14:09"
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 10 mg   (lactose formulation)",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Raltegravir 10 mg   (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 10 mg   (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 9-Raltegravir-Peripheral Venous Blood-Plasma-nM",
+            "X": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 9|h(1)",
+            "Y": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 9|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|nM",
+            "CurveOptions": {
+              "Color": "#0000FF",
+              "LegendIndex": 2,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis 1",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 400,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "None",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Raltegravir_\nRaltegravir 10 mg   (lactose formulation)\n2019-07-18 14:09"
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 100 mg  (lactose formulation)",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 12-Raltegravir-Peripheral Venous Blood-Plasma-nM",
+            "X": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 12|h(1)",
+            "Y": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 12|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|nM",
+            "CurveOptions": {
+              "Color": "#0000FF",
+              "LegendIndex": 2,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "Raltegravir 100 mg  (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 100 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "None",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Raltegravir_\nRaltegravir 100 mg  (lactose formulation)\n2019-07-17 13:31"
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 100 mg  (lactose formulation)",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 12-Raltegravir-Peripheral Venous Blood-Plasma-nM",
+            "X": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 12|h(1)",
+            "Y": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 12|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|nM",
+            "CurveOptions": {
+              "Color": "#0000FF",
+              "LegendIndex": 2,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "Raltegravir 100 mg  (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 100 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis 1",
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "None",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Raltegravir_\nRaltegravir 100 mg  (lactose formulation)\n2019-07-17 13:31"
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 1200 mg   (lactose formulation)",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Raltegravir 1200 mg   (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 1200 mg   (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 16-Raltegravir-Peripheral Venous Blood-Plasma-nM",
+            "X": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 16|h(1)",
+            "Y": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 16|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|nM",
+            "CurveOptions": {
+              "Color": "#0000FF",
+              "LegendIndex": 2,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 400,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "None",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Raltegravir_\nRaltegravir 1200 mg   (lactose formulation)\n2019-07-17 13:31"
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 1200 mg   (lactose formulation)",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Raltegravir 1200 mg   (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 1200 mg   (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 16-Raltegravir-Peripheral Venous Blood-Plasma-nM",
+            "X": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 16|h(1)",
+            "Y": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 16|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|nM",
+            "CurveOptions": {
+              "Color": "#0000FF",
+              "LegendIndex": 2,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis 1",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 400,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "None",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Raltegravir_\nRaltegravir 1200 mg   (lactose formulation)\n2019-07-17 13:31"
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 1600 mg  (lactose formulation)",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Raltegravir 1600 mg  (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 1600 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 17-Raltegravir-Peripheral Venous Blood-Plasma-nM",
+            "X": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 17|h(1)",
+            "Y": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 17|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|nM",
+            "CurveOptions": {
+              "Color": "#0000FF",
+              "LegendIndex": 2,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 400,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "None",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Raltegravir_\nRaltegravir 1600 mg  (lactose formulation)\n2019-07-16 17:54"
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 1600 mg  (lactose formulation)",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Raltegravir 1600 mg  (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 1600 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 17-Raltegravir-Peripheral Venous Blood-Plasma-nM",
+            "X": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 17|h(1)",
+            "Y": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 17|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|nM",
+            "CurveOptions": {
+              "Color": "#0000FF",
+              "LegendIndex": 2,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis 1",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 400,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "None",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Raltegravir_\nRaltegravir 1600 mg  (lactose formulation)\n2019-07-16 17:54"
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 200 mg   (lactose formulation)",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Raltegravir 200 mg   (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 200 mg   (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 13-Raltegravir-Peripheral Venous Blood-Plasma-nM",
+            "X": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 13|h(1)",
+            "Y": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 13|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|nM",
+            "CurveOptions": {
+              "Color": "#008000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 400,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "None",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Raltegravir_\nRaltegravir 200 mg   (lactose formulation)\n2019-07-16 17:54"
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 200 mg   (lactose formulation)",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Raltegravir 200 mg   (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 200 mg   (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 13-Raltegravir-Peripheral Venous Blood-Plasma-nM",
+            "X": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 13|h(1)",
+            "Y": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 13|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|nM",
+            "CurveOptions": {
+              "Color": "#008000",
+              "LegendIndex": 3,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis 1",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 400,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "None",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Raltegravir_\nRaltegravir 200 mg   (lactose formulation)\n2019-07-16 17:54"
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 25 mg  (lactose formulation)",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Raltegravir 25 mg  (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 25 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 10-Raltegravir-Peripheral Venous Blood-Plasma-nM",
+            "X": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 10|h(1)",
+            "Y": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 10|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|nM",
+            "CurveOptions": {
+              "Color": "#0000FF",
+              "LegendIndex": 2,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 400,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "None",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Raltegravir_\nRaltegravir 25 mg  (lactose formulation)\n2019-07-17 15:03"
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 25 mg  (lactose formulation)",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Raltegravir 25 mg  (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 25 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 10-Raltegravir-Peripheral Venous Blood-Plasma-nM",
+            "X": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 10|h(1)",
+            "Y": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 10|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|nM",
+            "CurveOptions": {
+              "Color": "#0000FF",
+              "LegendIndex": 2,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis 1",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 400,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "None",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Raltegravir_\nRaltegravir 25 mg  (lactose formulation)\n2019-07-17 15:03"
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 400mg (lactose formulation)",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Raltegravir 400mg (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 400mg (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 14-Raltegravir-Peripheral Venous Blood-Plasma-nM",
+            "X": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 14|h(1)",
+            "Y": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 14|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|nM",
+            "CurveOptions": {
+              "Color": "#0000FF",
+              "LegendIndex": 9,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "Wenning_2009_Effect of Rifampin, a Potent Inducer of Drug-Metabolizing Enzymes_figure 1a.Figure 1-Raltegravir-Peripheral Venous Blood-Plasma-µg/L",
+            "X": "Wenning_2009_Effect of Rifampin, a Potent Inducer of Drug-Metabolizing Enzymes_figure 1a.Figure 1|h(1)",
+            "Y": "Wenning_2009_Effect of Rifampin, a Potent Inducer of Drug-Metabolizing Enzymes_figure 1a.Figure 1|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|µg/L",
+            "CurveOptions": {
+              "Color": "#C04000",
+              "LegendIndex": 8,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 400,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "None",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Raltegravir_\nRaltegravir 400mg (lactose formulation)\n2019-07-16 17:55",
+        "PreviewSettings": true
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 400mg (lactose formulation)",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Raltegravir 400mg (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 400mg (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 14-Raltegravir-Peripheral Venous Blood-Plasma-nM",
+            "X": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 14|h(1)",
+            "Y": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 14|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|nM",
+            "CurveOptions": {
+              "Color": "#0000FF",
+              "LegendIndex": 9,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          },
+          {
+            "Name": "Wenning_2009_Effect of Rifampin, a Potent Inducer of Drug-Metabolizing Enzymes_figure 1a.Figure 1-Raltegravir-Peripheral Venous Blood-Plasma-µg/L",
+            "X": "Wenning_2009_Effect of Rifampin, a Potent Inducer of Drug-Metabolizing Enzymes_figure 1a.Figure 1|h(1)",
+            "Y": "Wenning_2009_Effect of Rifampin, a Potent Inducer of Drug-Metabolizing Enzymes_figure 1a.Figure 1|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|µg/L",
+            "CurveOptions": {
+              "Color": "#C04000",
+              "LegendIndex": 8,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis 1",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 400,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "None",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Raltegravir_\nRaltegravir 400mg (lactose formulation)\n2019-07-16 17:55",
+        "PreviewSettings": true
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 50 mg  (lactose formulation)",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Raltegravir 50 mg  (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 50 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 11-Raltegravir-Peripheral Venous Blood-Plasma-nM",
+            "X": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 11|h(1)",
+            "Y": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 11|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|nM",
+            "CurveOptions": {
+              "Color": "#0000FF",
+              "LegendIndex": 2,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 400,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "None",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Raltegravir_\nRaltegravir 50 mg  (lactose formulation)\n2019-07-16 17:55",
+        "PreviewSettings": true
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 50 mg  (lactose formulation)",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Raltegravir 50 mg  (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 50 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 11-Raltegravir-Peripheral Venous Blood-Plasma-nM",
+            "X": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 11|h(1)",
+            "Y": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 11|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|nM",
+            "CurveOptions": {
+              "Color": "#0000FF",
+              "LegendIndex": 2,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis 1",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 400,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "None",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Raltegravir_\nRaltegravir 50 mg  (lactose formulation)\n2019-07-16 17:55",
+        "PreviewSettings": true
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 800 mg  (lactose formulation)",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Log",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Raltegravir 800 mg  (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 800 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 15-Raltegravir-Peripheral Venous Blood-Plasma-nM",
+            "X": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 15|h(1)",
+            "Y": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 15|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|nM",
+            "CurveOptions": {
+              "Color": "#0000FF",
+              "LegendIndex": 2,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 400,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "None",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Raltegravir_\nRaltegravir 800 mg  (lactose formulation)\n2019-07-17 08:46",
+        "PreviewSettings": true
+      }
+    },
+    {
+      "SectionId": 42,
+      "Project": "Raltegravir",
+      "Simulation": "Raltegravir 800 mg  (lactose formulation)",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.CurveChart, PKSim.Core",
+        "Axes": [
+          {
+            "Unit": "h",
+            "Dimension": "Time",
+            "Type": "X",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "None",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          },
+          {
+            "Unit": "µg/l",
+            "Dimension": "Concentration (molar)",
+            "Type": "Y",
+            "GridLines": false,
+            "Visible": true,
+            "DefaultColor": "#FFFFFF",
+            "DefaultLineStyle": "Solid",
+            "Scaling": "Linear",
+            "NumberMode": "Normal"
+          }
+        ],
+        "Curves": [
+          {
+            "Name": "Raltegravir 800 mg  (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
+            "X": "Time",
+            "Y": "Raltegravir 800 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+            "CurveOptions": {
+              "Color": "#FF0000",
+              "LegendIndex": 1
+            }
+          },
+          {
+            "Name": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 15-Raltegravir-Peripheral Venous Blood-Plasma-nM",
+            "X": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 15|h(1)",
+            "Y": "Iwamoto_2008_Safety, tolerability, and pharmacokinetics of raltegravir after single and multiple doses in healthy subjects.Iwamoto 2008 Fig 2 final table 15|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|nM",
+            "CurveOptions": {
+              "Color": "#0000FF",
+              "LegendIndex": 2,
+              "LineStyle": "None",
+              "Symbol": "Circle"
+            }
+          }
+        ],
+        "Name": "Time Profile Analysis 1",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 400,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "None",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Raltegravir_\nRaltegravir 800 mg  (lactose formulation)\n2019-07-17 08:46",
+        "PreviewSettings": true
+      }
+    },
+    {
+      "SectionId": 32,
+      "Project": "Raltegravir",
+      "Simulation": "Larson 2013 8-18y meal",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.PopulationAnalysisChart, PKSim.Core",
+        "Type": "TimeProfile",
+        "Analysis": {
+          "Fields": [
+            {
+              "Name": "Concentration-Larson 2013 8-18y meal-Raltegravir-Organism-Peripheral Venous Blood-Plasma",
+              "Dimension": "Concentration (molar)",
+              "Scaling": "Log",
+              "Unit": "µg/l",
+              "QuantityPath": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+              "QuantityType": "Drug, Observer",
+              "Color": "#000000",
+              "Area": "DataArea"
+            }
+          ],
+          "Statistics": [
+            {
+              "Id": "GeometricMean",
+              "LineStyle": "Solid"
+            },
+            {
+              "Id": "Range90",
+              "LineStyle": "Solid"
+            }
+          ]
+        },
+        "ObservedDataCollection": {
+          "ObservedData": [
+            "(tablet) Larson_2013_Raltegravir for HIV -1 infected children and adolescents_figure 1.Larson 2013 Figure 1"
+          ],
+          "ApplyGrouping": false,
+          "CurveOptions": [
+            {
+              "Caption": "(tablet) Larson_2013_Raltegravir for HIV -1 infected children and adolescents_figure 1.Larson 2013 Figure 1-Raltegravir-Peripheral Venous Blood-Plasma-ng/mL",
+              "Path": "(tablet) Larson_2013_Raltegravir for HIV -1 infected children and adolescents_figure 1.Larson 2013 Figure 1|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|ng/mL",
+              "CurveOptions": {
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ]
+        },
+        "XAxisSettings": {
+          "AutoRange": true
+        },
+        "YAxisSettings": {
+          "AutoRange": true
+        },
+        "SecondaryYAxisSettings": [],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 400,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Raltegravir_\nLarson 2013 8-18y meal\n2019-07-17 13:42",
+        "PreviewSettings": true
+      }
+    },
+    {
+      "SectionId": 32,
+      "Project": "Raltegravir",
+      "Simulation": "Larson 2013 8-18y meal",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.PopulationAnalysisChart, PKSim.Core",
+        "Type": "TimeProfile",
+        "Analysis": {
+          "Fields": [
+            {
+              "Name": "Concentration-Larson 2013 8-18y meal-Raltegravir-Organism-Peripheral Venous Blood-Plasma",
+              "Dimension": "Concentration (molar)",
+              "Scaling": "Linear",
+              "Unit": "µg/l",
+              "QuantityPath": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+              "QuantityType": "Drug, Observer",
+              "Color": "#000000",
+              "Area": "DataArea"
+            }
+          ],
+          "Statistics": [
+            {
+              "Id": "GeometricMean",
+              "LineStyle": "Solid"
+            },
+            {
+              "Id": "Range90",
+              "LineStyle": "Solid"
+            }
+          ]
+        },
+        "ObservedDataCollection": {
+          "ObservedData": [
+            "(tablet) Larson_2013_Raltegravir for HIV -1 infected children and adolescents_figure 1.Larson 2013 Figure 1"
+          ],
+          "ApplyGrouping": false,
+          "CurveOptions": [
+            {
+              "Caption": "(tablet) Larson_2013_Raltegravir for HIV -1 infected children and adolescents_figure 1.Larson 2013 Figure 1-Raltegravir-Peripheral Venous Blood-Plasma-ng/mL",
+              "Path": "(tablet) Larson_2013_Raltegravir for HIV -1 infected children and adolescents_figure 1.Larson 2013 Figure 1|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|ng/mL",
+              "CurveOptions": {
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ]
+        },
+        "XAxisSettings": {
+          "AutoRange": true
+        },
+        "YAxisSettings": {
+          "AutoRange": true
+        },
+        "SecondaryYAxisSettings": [],
+        "Name": "Time Profile Analysis 1",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 400,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Raltegravir_\nLarson 2013 8-18y meal\n2019-07-17 13:42",
+        "PreviewSettings": true
+      }
+    },
+    {
+      "SectionId": 32,
+      "Project": "Raltegravir",
+      "Simulation": "Larson 2013 8-18y fasted",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.PopulationAnalysisChart, PKSim.Core",
+        "Type": "TimeProfile",
+        "Analysis": {
+          "Fields": [
+            {
+              "Name": "Concentration-Larson 2013 8-18y meal-Raltegravir-Organism-Peripheral Venous Blood-Plasma",
+              "Dimension": "Concentration (molar)",
+              "Scaling": "Log",
+              "Unit": "µg/l",
+              "QuantityPath": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+              "QuantityType": "Drug, Observer",
+              "Color": "#000000",
+              "Area": "DataArea"
+            }
+          ],
+          "Statistics": [
+            {
+              "Id": "GeometricMean",
+              "LineStyle": "Solid"
+            },
+            {
+              "Id": "Range90",
+              "LineStyle": "Solid"
+            }
+          ]
+        },
+        "ObservedDataCollection": {
+          "ObservedData": [
+            "(tablet) Larson_2013_Raltegravir for HIV -1 infected children and adolescents_figure 1.Larson 2013 Figure 1"
+          ],
+          "ApplyGrouping": false,
+          "CurveOptions": [
+            {
+              "Caption": "(tablet) Larson_2013_Raltegravir for HIV -1 infected children and adolescents_figure 1.Larson 2013 Figure 1-Raltegravir-Peripheral Venous Blood-Plasma-ng/mL",
+              "Path": "(tablet) Larson_2013_Raltegravir for HIV -1 infected children and adolescents_figure 1.Larson 2013 Figure 1|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|ng/mL",
+              "CurveOptions": {
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ]
+        },
+        "XAxisSettings": {
+          "AutoRange": false
+        },
+        "YAxisSettings": {
+          "AutoRange": false
+        },
+        "SecondaryYAxisSettings": [],
+        "Name": "Time Profile Analysis",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 400,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Raltegravir_\nLarson 2013 8-18y fasted\n2019-07-22 10:20",
+        "PreviewSettings": true
+      }
+    },
+    {
+      "SectionId": 32,
+      "Project": "Raltegravir",
+      "Simulation": "Larson 2013 8-18y fasted",
+      "Plot": {
+        "$type": "PKSim.Core.Snapshots.PopulationAnalysisChart, PKSim.Core",
+        "Type": "TimeProfile",
+        "Analysis": {
+          "Fields": [
+            {
+              "Name": "Concentration-Larson 2013 8-18y meal-Raltegravir-Organism-Peripheral Venous Blood-Plasma",
+              "Dimension": "Concentration (molar)",
+              "Scaling": "Linear",
+              "Unit": "µg/l",
+              "QuantityPath": "Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
+              "QuantityType": "Drug, Observer",
+              "Color": "#000000",
+              "Area": "DataArea"
+            }
+          ],
+          "Statistics": [
+            {
+              "Id": "GeometricMean",
+              "LineStyle": "Solid"
+            },
+            {
+              "Id": "Range90",
+              "LineStyle": "Solid"
+            }
+          ]
+        },
+        "ObservedDataCollection": {
+          "ObservedData": [
+            "(tablet) Larson_2013_Raltegravir for HIV -1 infected children and adolescents_figure 1.Larson 2013 Figure 1"
+          ],
+          "ApplyGrouping": false,
+          "CurveOptions": [
+            {
+              "Caption": "(tablet) Larson_2013_Raltegravir for HIV -1 infected children and adolescents_figure 1.Larson 2013 Figure 1-Raltegravir-Peripheral Venous Blood-Plasma-ng/mL",
+              "Path": "(tablet) Larson_2013_Raltegravir for HIV -1 infected children and adolescents_figure 1.Larson 2013 Figure 1|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|ng/mL",
+              "CurveOptions": {
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ]
+        },
+        "XAxisSettings": {
+          "AutoRange": false
+        },
+        "YAxisSettings": {
+          "AutoRange": false
+        },
+        "SecondaryYAxisSettings": [],
+        "Name": "Time Profile Analysis 1",
+        "FontAndSize": {
+          "ChartWidth": 600,
+          "ChartHeight": 400,
+          "Fonts": {
+            "AxisSize": 10,
+            "LegendSize": 8,
+            "TitleSize": 16,
+            "DescriptionSize": 12,
+            "OriginSize": 8,
+            "FontFamilyName": "Microsoft Sans Serif",
+            "WatermarkSize": 32
+          }
+        },
+        "Settings": {
+          "SideMarginsEnabled": true,
+          "LegendPosition": "Bottom",
+          "BackColor": "#FFFFFF",
+          "DiagramBackColor": "#FFFFFF"
+        },
+        "OriginText": "Raltegravir_\nLarson 2013 8-18y fasted\n2019-07-22 10:20",
+        "PreviewSettings": true
+      }
+    }
+  ],
+  "Inputs": [
+    {
+      "SectionId": 40,
+      "Path": "Inputs/Raltegravir/Compound/Raltegravir.md"
+    }
+  ]
+}
